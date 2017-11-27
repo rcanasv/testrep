@@ -2,9 +2,9 @@
 
 One Paragraph of project description goes here
 
-\[//\]\: \# (This may be the most platform independent comment)
-[//]: # (This may be the most platform independent comment)
+A line saying "This is a comment shouldn't appear
 
+<!-- This is a comment-->
 
 
 \*This text will be italic\*       *This text will be italic*

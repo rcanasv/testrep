@@ -2,6 +2,8 @@
 
 One Paragraph of project description goes here
 
+\[//\]\: \# (This may be the most platform independent comment)
+[//]: # (This may be the most platform independent comment)
 
 
 
@@ -31,6 +33,22 @@ function test() {
  console.log("look ma’, no spaces");
 }
 ```
+
+Do you want to [see something fun][a fun place]?
+
+Well, do I have [the website for you][another fun place]!
+
+
+[a fun place]: www.github.com
+[another fun place]: www.google.com
+
+
+```sh
+$ cd aaa
+$ lalala install -d
+$ algo app
+```
+
 
 
 - [x] this is a complete item

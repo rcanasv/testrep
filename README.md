@@ -2,8 +2,11 @@
 
 One Paragraph of project description goes here
 
-*This text will be italic*
-_This text will also be italic_
+
+
+
+\*This text will be italic\*       *This text will be italic*
+\_This text will also be italic\_  _This text will also be italic_
 
 **This text will be bold**
 __This text will also be bold__
